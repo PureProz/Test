@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" width="84.05086064338684" height="83.92325901985168" viewBox="-1.2326303198933601 -1.2067303210496902 84.05086064338684 83.92325901985168">
+  <defs>
+    <radialGradient id="grad_1" cx="0.49450000000000005" cy="0.5062" r="0.65806">
+      <stop offset="0" stop-color="#ED5A01" stop-opacity="1"/>
+      <stop offset="1" stop-color="#FF0212" stop-opacity="1"/>
+    </radialGradient>
+  <radialGradient id="grad_1-.550860643386841,0,0,2.550860643386841,-571.35,-418.4" cx="40.3445" cy="41.2594" r="53.5899" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#ED5A01" stop-opacity="1"/>
+      <stop offset="1" stop-color="#FF0212" stop-opacity="1"/>
+    </radialGradient></defs>
+  <!-- Exported by Scratch - http://scratch.mit.edu/ -->
+  <path id="ID0.24235630733892322" fill="url(#grad_1-.550860643386841,0,0,2.550860643386841,-571.35,-418.4)" stroke="none" d="M 0.0428 0.0687 L 81.5428 0.0687 L 81.5428 81.4411 L 0.0428 81.4411 L 0.0428 0.0687 Z " stroke-width="2.550860643386841"/>
+  <g id="ID0.8855230654589832">
+    <path id="ID0.46466933842748404" fill="#FFFFFF" stroke="none" d="M 13.8788 33.65 L 67.6141 33.65 L 67.6141 45.35 L 13.8788 45.35 L 13.8788 33.65 Z " stroke-width="0.9502904177909098"/>
+    <path id="ID0.8309707539156079" fill="#FFFFFF" stroke="none" d="M 10.9159 8.15 L 29.6806 8.15 L 29.6806 71.05 L 10.9159 71.05 L 10.9159 8.15 Z " stroke-width="0.9502904177909098"/>
+    <path id="ID0.8309707539156079" fill="#FFFFFF" stroke="none" d="M 50.1063 8.55 L 68.8711 8.55 L 68.8711 71.45 L 50.1063 71.45 L 50.1063 8.55 Z " stroke-width="0.9502904177909098"/>
+  </g>
+</svg>
